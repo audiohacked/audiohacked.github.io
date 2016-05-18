@@ -3,6 +3,8 @@ layout: default
 title: Mod List for Possible Modpacks
 ---
 
+[Inspiration List](http://www.feed-the-beast.com/projects/ftb-presents-direwolf20/relations/dependencies)  
+
 [Another One Bites the Dust]()  
 [Applied Energistics 2](http://ae-mod.info/) 
 [BdLib]()  
